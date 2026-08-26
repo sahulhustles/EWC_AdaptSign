@@ -1,0 +1,22 @@
+# Environments
+cbii_env/
+venv/
+.env
+
+# Datasets
+data/Indian-Traffic Sign-Dataset/
+data/gtsrb/
+
+# Results & Models
+results/
+*.pth
+*.pt
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# OS generated files
+.DS_Store
+Thumbs.db
